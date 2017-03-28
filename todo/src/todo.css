@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+}
+
+.content {
+  text-align: center;
+}
+
+h4,h3 {
+  color:white;
+}
+
+input {
+	overflow: hidden;
+	padding: 10px;
+  width:500px;
+  border-radius: 10px;
+  outline: none;
+}
+
+
+.butt{
+		padding: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
+    margin: 0 10px 10px;
+}
+
+.form {
+  text-align: center;
+}
+
+.main-page {
+  border: black;
+	margin: 0 100px 0;
+
+}
+
+.main {
+	padding: 15px;
+  height: 50%;
+	text-align: center;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  justify-content:space-around;
+
+  background-color: red;
+  margin: 10px 0px 15px;
+  color:white;
+  border-radius: 20px;
+}
